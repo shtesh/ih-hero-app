@@ -1,11 +1,11 @@
 {
   "name": "react-scaffold",
   "version": "1.0.0",
-  "description": "",
+  "description": "\\*\\* Light way React starter pack",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "parcel public/index.html"
+    "start": "parcel public/index.html --open"
   },
   "keywords": [],
   "author": "",
@@ -27,5 +27,13 @@
     "eslint-plugin-react-hooks": "^4.0.7",
     "parcel-bundler": "^1.12.4",
     "prettier": "^2.0.5"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shtesh/ih-hero-app.git"
+  },
+  "bugs": {
+    "url": "https://github.com/shtesh/ih-hero-app/issues"
+  },
+  "homepage": "https://github.com/shtesh/ih-hero-app#readme"
 }
